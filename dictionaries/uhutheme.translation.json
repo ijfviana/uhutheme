@@ -1,0 +1,14 @@
+{
+  "signin_header": {
+    "es": "Accede a tu cuenta de la UHU para iniciar sesión en"
+  },
+  "sp_header": {
+    "es": "Proveedor de servicio sin especificar"
+  },
+  "select_source_header": {
+    "es": "Selecciona una opción para autenticarse"
+  },
+  "select_other_source_text": {
+    "es": "Otras opciones disponibles"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "signin_header": {
+    "en": "Sign in to your UHU Account to start session in"
+  },
+ "sp_header": {
+    "en": "Unspecified Service Provider"
+  },
+  "select_source_header": {
+    "en": "Select an authentication source"
+  },
+  "select_other_source_text": {
+    "en": "Other options"
+  }
+}
